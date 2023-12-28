@@ -27,3 +27,15 @@ This is a Library Management System built using Spring Boot, designed to provide
 2. cd into dir
 3. mvn clean install
 4. mvn spring-boot:run
+
+### Login Credentials
+Admin Login:
+- Username : admin
+- Password : Admin@12
+
+Librarian Login
+- Register as Librarian.
+- Once approved by admin, login with respective credentials provided by Admin.
+
+User Login
+- Register as User and Login with respective credentials.
